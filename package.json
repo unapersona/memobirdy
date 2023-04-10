@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"memobird": "^0.5.2",
+		"node-telegram-bot-api": "^0.54.0"
+	}
+}
